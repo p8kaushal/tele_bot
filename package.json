@@ -1,8 +1,8 @@
 {
   "name": "tele_bot",
   "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
+  "description": "A lightweight Node.js bot that monitors web pages for changes and sends real-time Telegram alerts.",
+  "license": "MIT",
   "author": "",
   "type": "commonjs",
   "main": "index.js",
